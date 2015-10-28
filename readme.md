@@ -2,6 +2,8 @@
 
 > DownloadManager是android提供的一个下载管理器
 
+> 缺点：不支持断点续传
+
 使用方法:
 
 1. 创建实例:
