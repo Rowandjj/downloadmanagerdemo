@@ -139,3 +139,9 @@
   scheduledExecutorService.scheduleAtFixedRate(command, 0, 3, TimeUnit.SECONDS);
   ```
   
+ 参考资料：
+ 1. http://www.trinea.cn/android/android-downloadmanager/
+ 2. http://www.trinea.cn/android/android-downloadmanager/
+ 3. https://github.com/Trinea/android-common/blob/master/src/cn/trinea/android/common/util/DownloadManagerPro.java
+ 
+ 
